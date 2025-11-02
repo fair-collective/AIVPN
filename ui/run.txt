@@ -1,0 +1,2 @@
+flutter pub add speech_to_text http
+flutter run
