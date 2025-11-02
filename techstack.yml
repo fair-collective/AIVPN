@@ -1,0 +1,5 @@
+core: Rust + WireGuard
+ai: Gemini API + TMDB
+ui: Flutter (Android/Windows) + Voice (ElevenLabs)
+security: mTLS + Zero-Trust
+data: Local + Opt-in cloud sync
