@@ -1,0 +1,14 @@
+# 1. Clone & Structure
+git clone https://github.com/fair-collective/aivpn.git
+cd aivpn
+mkdir scout bid ui server
+
+# 2. Add SCOUT (scout.py)
+# 3. Add BID (bidder.py)
+# 4. Add UI (main.dart)
+# 5. Add SERVER (main.py)
+
+# 6. Commit & Push
+git add .
+git commit -m "feat: SCOUT + BID + UI v0.1"
+git push
