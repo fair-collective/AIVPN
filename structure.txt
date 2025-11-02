@@ -1,0 +1,7 @@
+aivpn/
+├── scout/            ← AI content scout
+├── bid/              ← Ethical bidding
+├── ui/               ← Flutter voice app
+├── server/           ← FastAPI backend
+├── README.md
+└── docker-compose.yml
