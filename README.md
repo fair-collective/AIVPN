@@ -1,7 +1,7 @@
 # AIVPN  
 **AI VPN — Ethical Streaming, Personalized, Unblockable**
 
-> *"The internet is not a wall. It's a garden. AIVPN plants the seeds you want to grow."* — ADAM, CEO
+> *"The internet is not a wall. It's a garden. AIVPN plants the seeds you want to grow."*
 
 ---
 
